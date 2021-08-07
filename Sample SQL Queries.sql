@@ -1,3 +1,4 @@
+--
 use TestDataBase;
 CREATE TABLE CUSTOMERS(
    ID   INT              NOT NULL,
